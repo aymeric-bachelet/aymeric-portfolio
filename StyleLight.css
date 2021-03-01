@@ -215,4 +215,22 @@ aside{
 		.tel {
 			display: block;
 		}
+
+		.section1 img{
+			display: block !important;
+		}
+
+		p {
+			font-size: 0.8em;
+		}
+
+		div p{
+			font-size: 1.2em;
+		}
+
+		.section3 img {
+			width: 11%;
+			margin-left: 2%;
+			margin-right: 2%;
+		}
 }
