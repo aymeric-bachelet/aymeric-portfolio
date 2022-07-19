@@ -1,6 +1,6 @@
 # Portfolio
 
-En deuxième année de DUT informatique, il nous a été demandé de créer un portfolio. J'ai donc créer le miens entiérement en html et css.
+En deuxième année de DUT informatique, il nous a été demandé de créer un portfolio. J'ai donc créé le miens entiérement en html et css.
 
 Voici ce que cela donne :
 (https://aymeric-bachelet.github.io/aymeric-portfolio/)
