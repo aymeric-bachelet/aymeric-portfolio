@@ -44,6 +44,38 @@ header img {
 	width : 3%;
 }
 
+aside {
+	width: 90%;
+	background-color: #180435;
+	border-radius: 10px;
+	text-align: center;
+	color: #FCB5B5;
+	font-family: 'Kristen ITC', sans-serif;
+	margin: auto;
+	margin-top : 2%;
+	overflow:hidden;
+}
+
+aside img {
+	float: inline-start;
+	width: 20%;
+}
+
+aside p {
+	float: left;
+	max-width: 72%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	font-size: 2.3ch;
+}
+
+.droite {
+	float: right;
+	width: 22%;
+	margin : 2%;
+	border-radius: 10px;
+}
+
 a {
 	text-decoration: none;
 	color : black;
@@ -238,4 +270,5 @@ aside{
 		.section3 div {
 			width: 39%;
 			margin: 5% 5%;
+		}
 }
